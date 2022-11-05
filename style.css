@@ -1,0 +1,17 @@
+
+.main {
+    max-width: 500px;
+    width: 90%;
+}
+
+.about {
+    max-width: 400px;
+    width: 90%;
+}
+
+/* @media screen and (max-width:800px) {
+  
+    .section-container {
+        height: 90vh;
+    }
+} */
