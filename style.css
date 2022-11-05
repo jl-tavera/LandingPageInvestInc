@@ -7,6 +7,7 @@
   }
 
 
+
 .main {
     max-width: 500px;
     width: 90%;
@@ -31,6 +32,16 @@
 .white-font {
     color: white;
 }
+
+.heading-font {
+    font-family: Helvetica;
+    font-weight: 600;
+  }
+
+.subheading-font {
+    font-family: Helvetica;
+    font-weight: 400;
+  }
 
 .about {
     max-width: 400px;
