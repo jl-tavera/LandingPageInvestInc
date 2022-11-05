@@ -1,7 +1,35 @@
+:root {
+    --purple: #7F5AF0;
+    --green: #2CB67D;
+    --dark-grey: #72757E;
+    --light-grey: #94A1B2;
+    --blackii:#16161A;
+  }
+
 
 .main {
     max-width: 500px;
     width: 90%;
+}
+
+.black-container {
+    background-color: var(--blackii);
+}
+
+.purple-container {
+    background-color: var(--purple);
+}
+
+.green-font {
+    color: var(--green);
+}
+
+.lightgrey-font {
+    color: var(--light-grey);
+}
+
+.white-font {
+    color: white;
 }
 
 .about {
@@ -9,9 +37,6 @@
     width: 90%;
 }
 
-/* @media screen and (max-width:800px) {
-  
-    .section-container {
-        height: 90vh;
-    }
-} */
+.platform-image {
+    max-width: 240px;
+}
